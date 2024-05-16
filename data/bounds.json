@@ -1,5 +1,5 @@
 {
   "description": "This is an example message about a small release message! This is in the body of the release.",
-  "file_details": [["index.py", "normal"]],
-  "file_paths": ["everything\\main\\top\\container"]
+  "file_details": [["index.py", "normal"], ["main.py", "normal"],
+  "file_paths": ["everything\\main\\top\\container", "everything\\main\\top\\container\\game_data\\src\\conways-game"]
 }
