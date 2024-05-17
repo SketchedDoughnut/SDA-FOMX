@@ -1,6 +1,22 @@
 {
   "description": "Updates! - 2/20 (safe)",
   "version": "2/20",
-  "file_details": [["update.py", "normal"], ["main.py", "normal"]],
-  "file_paths": ["everything/main/top/container", "everything/main/top/container/game_data/src/conways-game"]
+  "file_details": [
+    ["update.py", "normal"], 
+    ["main.py", "normal"],
+
+    ["rule_the_world.wav", "binary"],
+    ["rush.wav", "binary"],
+    ["stayed_gone.wav", "binary"],
+    ["boggle.wav", "binary"]
+  ],
+  "file_paths": [
+    "everything/main/top/container", 
+    "everything/main/top/container/game_data/src/conways-game",
+
+    "everything/main/top/container/game_data/src/rhythm",
+    "everything/main/top/container/game_data/src/rhythm",
+    "everything/main/top/container/game_data/src/rhythm",
+    "everything/main/top/container/game_data/src/rhythm"
+  ]
 }
