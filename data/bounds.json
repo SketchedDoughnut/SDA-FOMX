@@ -1,6 +1,6 @@
 {
-  "description": "No updates, currently!",
-  "version": "0/20",
-  "file_details": [],
-  "file_paths": [],
+  "description": "1/20: bugfix for update.py",
+  "version": "1/20",
+  "file_details": [["update.py", "normal"]],
+  "file_paths": ["everything/main/top/container"]
 }
