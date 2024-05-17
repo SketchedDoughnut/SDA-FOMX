@@ -1,9 +1,10 @@
 {
-  "description": "Updates! - 7/20 (safe)",
-  "version": "7/20",
+  "description": "Updates! - 8/20 (safe)",
+  "version": "8/20",
   "file_details": [
     ["update.py", "normal"], 
     ["main.py", "normal"],
+    ["loads.py", "normal"],
     ["index.py", "normal"],
 
     ["rule_the_world.wav", "binary"],
@@ -13,6 +14,7 @@
   ],
   "file_paths": [
     "everything/main/top/container", 
+    "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container",
 
