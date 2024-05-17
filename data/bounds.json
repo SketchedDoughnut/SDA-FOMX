@@ -1,6 +1,6 @@
 {
-  "description": "1/20: bugfix for update.py",
-  "version": "1/20",
-  "file_details": [["update.py", "normal"]],
-  "file_paths": ["everything/main/top/container"]
+  "description": "Updates!",
+  "version": "2/20",
+  "file_details": [["update.py", "normal"], ["main.py", "normal"]],
+  "file_paths": ["everything/main/top/container", "everything/main/top/container/game_data/src/conways-game"]
 }
