@@ -1,8 +1,8 @@
 {
   "description": "Updates! - 12/20 (safe)",
   "version": "12/20",
+  "cmd_exist": true,
   "file_details": [
-    ["cmd.txt", "normal"],
     ["update.py", "normal"], 
     ["main.py", "normal"],
     ["loads.py", "normal"],
@@ -19,8 +19,6 @@
     ["start_screen.py", "normal"]
   ],
   "file_paths": [
-    "cmd.txt buffer, there is no path here!",
-    
     "everything/main/top/container", 
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game",
