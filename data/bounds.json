@@ -18,9 +18,9 @@
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container",
 
-    "everything/main/top/container/game_data/src/rhythm",
-    "everything/main/top/container/game_data/src/rhythm",
-    "everything/main/top/container/game_data/src/rhythm",
-    "everything/main/top/container/game_data/src/rhythm"
+    "everything/main/top/container/game_data/src/rhythm/songs_wav",
+    "everything/main/top/container/game_data/src/rhythm/songs_wav",
+    "everything/main/top/container/game_data/src/rhythm/songs_wav",
+    "everything/main/top/container/game_data/src/rhythm/songs_wav"
   ]
 }
