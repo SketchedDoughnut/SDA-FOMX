@@ -1,11 +1,9 @@
 {
-  "description": "Updates! - 12/20 (safe)",
-  "version": "12/20",
-  "cmd_exist": true,
+  "description": "Updates! - 11/20 (safe)",
+  "version": "11/20",
+  "cmd_exist": false,
   "file_details": [
     ["update.py", "normal"], 
-    ["main.py", "normal"],
-    ["loads.py", "normal"],
     ["index.py", "normal"],
 
     ["rule_the_world.wav", "binary"],
@@ -16,11 +14,11 @@
     ["default-glider_gun.json", "json"],
     ["eval.py", "normal"],
     ["loads.py", "normal"],
-    ["start_screen.py", "normal"]
+    ["start_screen.py", "normal"],
+    ["main.py", "normal"]
   ],
   "file_paths": [
     "everything/main/top/container", 
-    "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container",
 
@@ -30,6 +28,7 @@
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
 
     "everything/main/top/container/game_data/src/conways-game/maps_in",
+    "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game",
     "everything/main/top/container/game_data/src/conways-game"
