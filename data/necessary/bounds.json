@@ -1,7 +1,7 @@
 {
   "description": "Updates! - 11/20 (safe)",
   "version": "11/20",
-  "cmd_exist": true,
+  "cmd_exist": false,
   "file_details": [
     ["update.py", "normal"], 
     ["index.py", "normal"],
