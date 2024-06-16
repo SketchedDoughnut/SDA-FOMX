@@ -5,6 +5,7 @@
   "file_details": [
     ["update.py", "normal"], 
     ["index.py", "normal"],
+    ["imports.py", "normal"],
 
     ["rule_the_world.wav", "binary"],
     ["rush.wav", "binary"],
@@ -19,6 +20,7 @@
   ],
   "file_paths": [
     "everything/main/top/container", 
+    "everything/main/top/container",
     "everything/main/top/container",
 
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
