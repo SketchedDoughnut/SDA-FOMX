@@ -1,2 +1,3 @@
+rmdir everything/main/top/container/test
 mkdir everything/main/top/container/test
 mkfile everything/main/top/container/test/test.txt
