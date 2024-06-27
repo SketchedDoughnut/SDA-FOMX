@@ -3,7 +3,7 @@
   "version": "12/20",
   "rollover": 0,
   "transfer": 1,
-  "cmd_exist": true,
+  "cmd_exist": false,
   "file_details": [
     ["rule_the_world.wav", "binary"],
     ["rush.wav", "binary"],
