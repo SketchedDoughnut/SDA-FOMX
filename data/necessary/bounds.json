@@ -1,7 +1,8 @@
 {
   "description": "Updates! - 4/20 (safe)",
   "version": "12/20",
-  "rollover": 1,
+  "rollover": 0,
+  "transfer": 1,
   "cmd_exist": true,
   "file_details": [
     ["rule_the_world.wav", "binary"],
