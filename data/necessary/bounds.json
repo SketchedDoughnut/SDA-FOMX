@@ -8,12 +8,12 @@
     ["rule_the_world.wav", "binary"],
     ["rush.wav", "binary"],
     ["stayed_gone.wav", "binary"],
-    ["boggle.wav", "binary"],
+    ["boggle.wav", "binary"]
   ],
   "file_paths": [
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
-    "everything/main/top/container/game_data/src/rhythm/songs_wav",
+    "everything/main/top/container/game_data/src/rhythm/songs_wav"
   ]
 }
