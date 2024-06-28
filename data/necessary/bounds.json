@@ -8,12 +8,16 @@
     ["rule_the_world.wav", "binary"],
     ["rush.wav", "binary"],
     ["stayed_gone.wav", "binary"],
-    ["boggle.wav", "binary"]
+    ["boggle.wav", "binary"],
+
+    ["index.py", "normal"]
   ],
   "file_paths": [
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
-    "everything/main/top/container/game_data/src/rhythm/songs_wav"
+    "everything/main/top/container/game_data/src/rhythm/songs_wav",
+    
+    "everything\main\top\container\index.py"
   ]
 }
