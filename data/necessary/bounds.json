@@ -18,6 +18,6 @@
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     
-    "everything/main/top/container/index.py"
+    "everything/main/top/container"
   ]
 }
