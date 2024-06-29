@@ -1,2 +1,3 @@
-propogate crash
+propagate crash
+mkdir everything\main\setup\FOMX\test
 mkdir everything\main\setup\FOMX\test
