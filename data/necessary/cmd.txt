@@ -1,3 +1,4 @@
 propagate crash
 mkdir everything\main\setup\FOMX\test
 mkdir everything\main\setup\FOMX\test
+rmdir everything\main\setup\FOMX\test
