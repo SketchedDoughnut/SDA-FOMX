@@ -1,2 +1,2 @@
 propogate crash
-propogate elevator
+mkdir everything\main\setup\FOMX\test
