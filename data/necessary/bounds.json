@@ -1,5 +1,5 @@
 {
-  "description": "Updates! - 5/20 (safe)",
+  "description": "Updates! - 4/20 (safe)",
   "version": "(12?)/20",
   "rollover": 0,
   "transfer": 1,
@@ -8,16 +8,12 @@
     ["rule_the_world.wav", "binary"],
     ["rush.wav", "binary"],
     ["stayed_gone.wav", "binary"],
-    ["boggle.wav", "binary"],
-
-    ["index.py", "normal"]
+    ["boggle.wav", "binary"]
   ],
   "file_paths": [
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
     "everything/main/top/container/game_data/src/rhythm/songs_wav",
-    "everything/main/top/container/game_data/src/rhythm/songs_wav",
-    
-    "everything/main/top/container"
+    "everything/main/top/container/game_data/src/rhythm/songs_wav"
   ]
 }
