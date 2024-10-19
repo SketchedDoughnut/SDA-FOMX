@@ -1,2 +1,3 @@
 propagate crash
 propagate elevator
+propagate tools
